@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Alejandro Polo 👋
 
-<!--
-**alejandropoloa/alejandropoloa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Systems Engineering student on the path to becoming a Data Engineer.
 
-Here are some ideas to get you started:
+I am building practical skills through real-world projects focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Python
+- Power BI
+- Data Analytics
+- Data Engineering
+- Cloud Computing
+- Artificial Intelligence
+
+## Current Goal
+
+Become a highly competitive Data Engineer by combining technical knowledge, business understanding, and hands-on projects.
+
+## Current Learning Roadmap
+
+- Git & GitHub
+- Excel for Data Analysis
+- SQL Fundamentals
+- Python for Data Analysis
+- Power BI
+- Data Engineering
+- Cloud for Data
+- Machine Learning Fundamentals
+
+## Featured Project
+
+📊 Data Roadmap
+
+A structured learning roadmap designed to progress from Systems Engineering student to Data Engineer through practical projects, business cases, and professional portfolio development.
+
+## Connect With Me
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/alejandro-polo-379899306
+
+📍 Medellín, Colombia
