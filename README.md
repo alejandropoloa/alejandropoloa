@@ -38,4 +38,4 @@ A structured learning roadmap designed to progress from Systems Engineering stud
 🔗 LinkedIn:
 https://www.linkedin.com/in/alejandro-polo-379899306
 
-📍 Medellín, Colombia
+📍 Barranquilla, Colombia
